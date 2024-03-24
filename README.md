@@ -47,6 +47,7 @@ python run_inference.py
 ```
 
 We provide weights for model inference：https://drive.google.com/drive/folders/18VTqznST_fbebgtyu_w8nfbYvVFiNaYj?usp=drive_link
+
 Image-level evaluation metrics (AUROC) of the provide model weights on the MVTec LOCO AD dataset:
 
 |            | Breakfast box | Juice bottle | Pushpins | Screw bag | Splicing connector | Mean  |
